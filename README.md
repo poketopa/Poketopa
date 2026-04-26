@@ -31,7 +31,7 @@
 
 <br/>
 
-### Tech Stack
+### Stacks
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,redis,kafka,docker,kubernetes,aws,git,linux&theme=dark" />
 </p>
